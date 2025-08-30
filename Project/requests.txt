@@ -1,0 +1,5 @@
+-pixalte 4 stages
+-return name to host
+-min pixel amount requierd
+-Pixalate amount depends on number of pixels of original image.
+-Some image can give more points cause they got more pixels at default.
